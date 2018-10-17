@@ -78,15 +78,15 @@ class yande
      * 
      * @access public 
      * @param mixed $keyword 关键词
-     * @param mixed $order 排列方式	name => 名称
-     count => tag下图片数量
-     date => 时间
-     * @param mixed $type 搜索类型	0 => General
-     1 => Artist
-     3 => Copyright
-     4 => Character
-     5 => Circle
-     6 => Faults
+     * @param mixed $order 排列方式	  name => 名称
+				     count => tag下图片数量
+				     date => 时间
+     * @param mixed $type 搜索类型	  0 => General
+				     1 => Artist
+				     3 => Copyright
+				     4 => Character
+				     5 => Circle
+				     6 => Faults
      * @return array 
      * example
      [
