@@ -1,4 +1,4 @@
-# php获取https://yande.re 的图片
+# php获取 yande.re 的图片
 
 example.php 为示例文件，作为参考
 <pre>
